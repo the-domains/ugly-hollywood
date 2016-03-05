@@ -1,0 +1,13 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.9129072
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#ED1848'
+    - '#F37763'
+    - '#FCE0D8'
+  rhythmicContrast: 0.8107769
+typography_spectrum: 0.5576441
+name: Ugly Hollywood
