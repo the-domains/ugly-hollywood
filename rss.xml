@@ -2,15 +2,29 @@
     <channel>
         <title><![CDATA[Ugly Hollywood]]></title>
         <description><![CDATA[Ugly Hollywood]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ugly-hollywood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 01:59:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 01:59:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ugly-hollywood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heist]]></title>
+            <description><![CDATA[<article><h1>Heist</h1><p>The gang prepares for their most daring heist ever!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b10ce99b965fa865abf4cdd0ec71362e8b8f589e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=f1qj44MXK8o</link>
+            <guid isPermaLink="false">d930f729-5bb4-4db0-9e6a-c0158213b979</guid>
+            <pubDate>Fri, 15 Apr 2016 01:58:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mr. Leftovers]]></title>
             <description><![CDATA[<article><h1>Mr. Leftovers</h1><p>You know Phil... he loooooves leftovers! Brian - Bryan Jackson Phil - Josh Korr Marilyn - Joanna Tiger Written by Charlie Visconage Filmed, Directed & Edited by Tony Lazzeroni Sound by Matt Winterhalter Executive Produced by Brianna Lux Produced by Jamal Newman Music by Terique Greenfield Crowded Elevator Pictures http://crowdedelevatorpictures.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bc51a9720e09c4400fe53853f31f70ec3d4da07.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=MM4_QwYgMl0</link>
             <guid isPermaLink="false">104b36dc-d19f-4782-88b4-dd08d1e88d05</guid>
+            <pubDate>Fri, 15 Apr 2016 01:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buff Circuit]]></title>
+            <description><![CDATA[<article><h1>Buff Circuit</h1><p>Amy gets the hard sell on building a hard body.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52dcf513664b88ffdaaea6bf13fe911b96ccca9b.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=gQ8Z1wwJwlQ</link>
+            <guid isPermaLink="false">247f9b07-0036-4b8b-848c-2aba3d24b9ba</guid>
             <pubDate>Fri, 15 Apr 2016 01:58:37 GMT</pubDate>
         </item>
     </channel>
