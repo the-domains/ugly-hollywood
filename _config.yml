@@ -1,13 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5576441
 color:
   saturation: 1
-  lightness: 0.9129072
   brandStrength: 1
+  lightness: 0.5042965
   brandColors:
     - '#000000'
-    - '#ED1848'
-    - '#F37763'
-    - '#FCE0D8'
-  rhythmicContrast: 0.8107769
-typography_spectrum: 0.5576441
+    - '#4A4B4D'
+    - '#CE003F'
+    - '#FFFFFF'
+    - '#DF655A'
+  rhythmicContrast: 1
+layout_spectrum: 1
 name: Ugly Hollywood
