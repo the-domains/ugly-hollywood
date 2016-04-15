@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ugly Hollywood]]></title>
+        <description><![CDATA[Ugly Hollywood]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 01:59:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mr. Leftovers]]></title>
+            <description><![CDATA[<article><h1>Mr. Leftovers</h1><p>You know Phil... he loooooves leftovers! Brian - Bryan Jackson Phil - Josh Korr Marilyn - Joanna Tiger Written by Charlie Visconage Filmed, Directed & Edited by Tony Lazzeroni Sound by Matt Winterhalter Executive Produced by Brianna Lux Produced by Jamal Newman Music by Terique Greenfield Crowded Elevator Pictures http://crowdedelevatorpictures.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bc51a9720e09c4400fe53853f31f70ec3d4da07.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=MM4_QwYgMl0</link>
+            <guid isPermaLink="false">104b36dc-d19f-4782-88b4-dd08d1e88d05</guid>
+            <pubDate>Fri, 15 Apr 2016 01:58:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
