@@ -1,20 +1,28 @@
 ---
-description: ''
-author: []
-datePublished: '2016-04-15T01:53:41.346Z'
+author:
+  - name: Ugly Hollywood
+    url: 'https://www.youtube.com/user/UglyHollywood'
+    avatar: {}
+related: []
 publisher:
-  domain: ''
-  name: ''
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://www.youtube.com/favicon.ico'
+  domain: www.youtube.com
+keywords: []
+description: Amy gets the hard sell on building a hard body.
+app_links: []
+isBasedOnUrl: 'https://www.youtube.com/watch?v=gQ8Z1wwJwlQ'
 title: Buff Circuit
-dateModified: '2016-04-15T01:46:13.411Z'
+datePublished: '2016-04-15T01:58:37.076Z'
+dateModified: '2016-04-15T01:55:48.305Z'
 sourcePath: _posts/2016-04-15-buff-circuit.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: buff-circuit/index.html
+_type: VideoObject
 _context: 'http://schema.org'
-_type: Article
 
 ---
 # Buff Circuit
